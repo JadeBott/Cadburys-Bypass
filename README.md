@@ -41,6 +41,6 @@ Enable the extension and enable permissions (if it asks for them). Then, once yo
 
 If you encounter any issues or have suggestions, please open an issue on the [Issues](../../issues) tab or open a ticket in the [Discord Server](https://discord.gg/jadebot)
 
-## License
+## Notice
 
-This project is for educational purposes
+This project is for educational purposes. We do not encourage or endorce using this tool
