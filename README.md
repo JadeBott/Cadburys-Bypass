@@ -45,4 +45,4 @@ If you encounter any issues or have suggestions, please open an issue on the [Is
 
 ## Notice
 
-This project is for educational purposes. We do not encourage or endorce using this tool
+This project is for educational purposes. We do not encourage or endorse using this tool
