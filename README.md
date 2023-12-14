@@ -23,7 +23,7 @@ Follow these steps to download the folder as a zip and load it as an unpacked ex
 
 Your extension should now be loaded and active in Chrome.
 
-![Tutorial Video](https://media.discordapp.net/attachments/1126625205167595711/1184981779938033774/cadbury.mp4?ex=658df348&is=657b7e48&hm=77d09e4d4681810cc6bef669bf8fc267207a4ecc62a6c0f565c1d2136de4a186&)
+![Tutorial Video](https://media.discordapp.net/attachments/1126625205167595711/1184981779938033774/cadbury.mp4)
 
 ### FAQ
 
