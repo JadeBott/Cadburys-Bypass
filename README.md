@@ -25,10 +25,6 @@ Your extension should now be loaded and active in Chrome.
 
 ### FAQ
 
-
-Q: Why can't I view the source code? 
-A: You cannot view the source code because we could much rather keep this away from the eye of any competitors
-
 Q: I keep getting an error, what do I do?
 A: We would recommend you to refresh the extension, which can be done on the `chrome://extensions/` page, if the issue persists, open a ticket in the [Discord](https://discord.gg/jadebot)
 
